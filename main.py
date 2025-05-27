@@ -10,7 +10,7 @@ from concurrent.futures import ThreadPoolExecutor
 import threading
 import http.client
 
-api_key = '11ebda98-bb99-4af1-9246-db4906d4f4fd'
+api_key = 'apikey'
 host = '127.0.0.1'
 chrome_driver_path = '/Users/dmitrij/Documents/Python/chromedriver_mac64/chromedriver'
 output_path = os.path.expanduser('~/Desktop/results.txt')
